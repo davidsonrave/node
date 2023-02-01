@@ -1,0 +1,34 @@
+node es un entorno de ejeccucion de js orientado a eventos asincronicos
+
+entorno de ejeccucion = infraestrucutura en el cual se ejecuta un program o aplicacion
+
+evento asincronico = evento que se ejecuta independientemente del proceso principal de la aplicacion
+
+motor de js = software que se eejcuta codigo de js 
+
+protocolo = reglas que permiten que dos entidades de uan red se comuniquen 
+
+base de datos = conjunto de datos estrucutrados sobre un mismo contexto que se pueden consultar
+
+
+nodejs es usado para desarrolo de backend y desarrollar APIs
+nos permite desarrolar aplicacioens escalable y de tiempo real 
+
+API = APPLICATION PROGRAMMING INTERFACE (Interfaz de programacion de aplicaciones)
+
+escalable = su redimiento se puede adataptar a medida que crece el uso de la aplicacion y recibe mas solicitudes 
+tiempo real  = establece una conexion bidireccional y dinamica entre el servidor y el cliente 
+
+modulo = funcionalidad organizada en uno o varios archivos js que puede ser reutlizada en una aplicacion
+
+modulos built-in = son modulos ppales ya incorporados con node se pueden usar directamente al trabajr con node sin instalarlos
+son muy utiles para realizar tareas comunes al trabajr con nodejs http https, fs, os , path
+
+modulo process = provee informacion sobre el proceso de node.js que se esta ejecutando (version del node, v8, etc muchas inforamcion)
+process.env ambiente de ejecuccion (dominio del usuario, nombre de la pc del usuario, nombre del usuario, idioma )
+process.argv argumentos (node.exe, nombre de la capeta actual) lo toma como una arreglo ocupando ya el 0 y el 1 ya lo que se gregu despues lo toamra como 2 en adelante
+process.memoryUsage cuanta memoria se esta utilizando
+
+
+
+
