@@ -10,6 +10,9 @@
 //fs.renameSync()sincrono lo convierto en sincrono ya q por defecto viene asincrono
 
 const fs = require('fs');
+
+
+
 fs.readFile('index.html', 'utf-8', (err, contenido)=> {
     if (err) {
         console.log(err);
