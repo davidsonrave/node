@@ -1,0 +1,13 @@
+los datos se representa como pares clave-valor (propiedades)
+
+JSON.parse
+
+npm i express = instalar
+
+npm u express = desistalar
+
+npm i express@4.15.1 = isntalar una version expecifica
+
+npm i express --save-dev = guardar como dependencia de desarrollo  "devDependencies":
+
+package-lock.json = se genera automaticamente cuando npm modifica el arbol de node_modules o package.json
